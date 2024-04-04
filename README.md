@@ -1,4 +1,4 @@
-# Data-Analysis-and-Data-Science-Roadmap-for-Beginners📊
+# Data Science/Analysis Roadmap for Beginners📊
 
 # Table of Contents
 1. **Python For Data Analysis**
