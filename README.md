@@ -39,6 +39,10 @@
 # Machine learning
 [Machine Learning Specialization(cources with certifications)](https://www.coursera.org/specializations/machine-learning-introduction)
 
+[Machie Learning Concepts part 1](https://www.youtube.com/watch?v=0p0o5cmgLdE&list=PLkguTFqZ9THFtRU9V-8ocNyG8iyw4RXBe&ab_channel=IntuitiveMachineLearning)
+
+[Machie Learning Concepts part 2](https://www.youtube.com/watch?v=5dLG3JDk2VU&list=PLkguTFqZ9THEVyju5cMn6K_PELft-DHMw&ab_channel=IntuitiveMachineLearning)
+
 [Machine learning in Arabic(without certification)](https://youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR&si=1FzRE9zI536UvBu8)
 
 
